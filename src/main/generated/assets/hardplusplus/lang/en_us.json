@@ -1,0 +1,12 @@
+{
+  "text.hardplusplus.atkUpRate": "Attack multiplier",
+  "text.hardplusplus.creeperSpeed": "Creeper speed multiplier",
+  "text.hardplusplus.disableElytraFireworks": "Elytra fireworks disabled",
+  "text.hardplusplus.disclaimer": "Multipliers are only applied to new mob spawns. Existing mobs will not be affected. For best results, create a new world.",
+  "text.hardplusplus.explosionRadMod": "Explosion power multiplier",
+  "text.hardplusplus.fireDmgMod": "On-fire damage multiplier",
+  "text.hardplusplus.healRate": "Passive healing rate (Hearts/second)",
+  "text.hardplusplus.healthModifier": "HP multiplier",
+  "text.hardplusplus.speedUpRate": "Undead speed multiplier",
+  "text.hardplusplus.title": "Configure Hard++"
+}

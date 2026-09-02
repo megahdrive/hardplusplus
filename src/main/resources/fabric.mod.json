@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "hardplusplus",
+	"version": "${version}",
+	"name": "Hard++",
+	"description": "Collection of difficulty enhancements. Set the difficulty to hard.",
+	"authors": [
+		"megahdrive"
+	],
+	"contact": {
+		"homepage": "https://megahdrive.com/"
+	},
+	"license": "All rights reserved",
+	"icon": "assets/hardplusplus/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.megahdrive.HardPlusPlus"
+		],
+		"fabric-datagen": [
+			"com.megahdrive.HardPlusPlusDataGenerator"
+		],
+		"modmenu": [
+			"com.megahdrive.integrations.ModMenuConfigImpl"
+		]
+	},
+	"mixins": [
+		"hardplusplus.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

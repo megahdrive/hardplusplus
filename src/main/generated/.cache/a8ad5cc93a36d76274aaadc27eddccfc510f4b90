@@ -1,0 +1,4 @@
+// 26.2	-999999999-01-01T00:00:00	Hard++/Tags for minecraft:entity_type
+885f713ba9586f3a2aaef2ba0919862c522a84fd data/hardplusplus/tags/entity_type/entity_damage_up.json
+885f713ba9586f3a2aaef2ba0919862c522a84fd data/hardplusplus/tags/entity_type/entity_health_up.json
+5b4f88cd3c3642925c6ac7857abe9655fed1ba42 data/hardplusplus/tags/entity_type/entity_speed_up.json
